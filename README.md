@@ -1,2 +1,2 @@
 # Daily-UI-Challenges
-Daily UI Challenges (https://www.dailyui.co/)
+100 Daily UI Challenges (https://www.dailyui.co/)
